@@ -8,6 +8,12 @@ The agents are specialized prompt-driven stages. They pass structured output fro
 
 > **Status:** development prototype. The repository includes the UI, API, authentication, history storage, and OpenRouter integration. Model availability depends on the external provider. Existing authorization and workflow gaps are documented under [Known limitations](#known-limitations); review these before considering a public deployment.
 
+
+## Watch demo video
+
+https://youtu.be/WiPhDi2vGNk?si=nYfX2RH5CwKKrnSH
+
+
 ## Contents
 
 - [What the application does](#what-the-application-does)
